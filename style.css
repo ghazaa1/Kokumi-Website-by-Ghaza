@@ -1,0 +1,50 @@
+.jumbotron {
+  /* padding: 2rem 1rem; */
+  background-size: cover;
+  background-image: url(img/jumbotronbg.svg)
+}
+
+.about {
+  background-color: #C1BFEE ;
+  padding: 2rem 1rem;
+  background-size: cover;
+}
+
+.menu {
+  background-color: #64639D ;
+  padding: 2rem 1rem;
+  background-size: cover;
+}
+
+.Location{
+  background-color: #C1BFEE ;
+  padding: 2rem 1rem;
+  background-size: cover;
+}
+
+.order-here{
+  background-color: #64639D ;
+  padding: 2rem 1rem;
+  background-size: cover;
+}
+
+.footer{
+  background-color: #C1BFEE ;
+  padding: 2rem 1rem;
+  background-size: cover;
+}
+
+.btn-custom { 
+  color: #000000; 
+  background-color: #DE826B; 
+}
+
+.btn-Active { 
+  color: #000000; 
+  background-color: #F9DECE; 
+}
+
+.btn-submit { 
+  color: #000000; 
+  background-color: #9391CE; 
+}
